@@ -1,0 +1,11 @@
+/* CSS declarations go here */
+
+body {
+	background-color:#75B875;
+}
+
+#main_style li {
+	list-style-type:none;
+}
+
+
